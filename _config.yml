@@ -27,9 +27,15 @@ url: "http://www.danafng.com" # the base hostname & protocol for your site, e.g.
 github_username:  riceball1
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

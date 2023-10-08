@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-10-07 19:37:49 -0700
-categories: jekyll update
+title: "Beginnings"
+date: 2023-10-07
+categories: lifestyle
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## “The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.”
 
-`YEAR-MONTH-DAY-title.MARKUP`
+<hr>
+<br>
+Hello, everyone! I'm thrilled to kick off my blog, "Wanderlust Minimalist." Here, I'm all about embracing the beauty of minimalism, relishing diverse culinary delights, embarking on thrilling travel adventures, diving into languages, and sharing my deep love for the beautiful game of soccer/football. This blog is my canvas to explore these diverse passions, uncover how they enrich my life, and hopefully, inspire others in their own journeys. I'm excited to nurture this blog into a space where I can unlock a better understanding of myself while offering valuable insights to those seeking self-discovery. Thanks for joining me on this exciting adventure!
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
