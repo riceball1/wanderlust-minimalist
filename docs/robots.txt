@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://riceball1.github.io/wanderlust-minimalist/sitemap.xml
