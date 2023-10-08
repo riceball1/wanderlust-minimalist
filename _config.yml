@@ -22,7 +22,6 @@ title: Wanderlust Minimalist
 email: ngdana1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of accounts of a wanderlust minimalist as she grows and experiences life.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.danafng.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  riceball1
 
